@@ -3,6 +3,7 @@
 ## Install
 
 - Install homebrew
+- `brew install bash-completion`
 - `brew install homeshick`
 
 ## Mac Terminal Themes

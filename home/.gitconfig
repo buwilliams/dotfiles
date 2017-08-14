@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Buddy Williams
+	email = buwilliams@primerevenue.com
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+	unstage = reset HEAD --
+	last = log -1 HEAD
