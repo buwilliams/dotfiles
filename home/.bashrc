@@ -8,3 +8,6 @@ alias ll="ls -latr"
 
 unset PROMPT_COMMAND
 export PS1='\w$(__git_ps1 " (%s)")\n$ '
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
